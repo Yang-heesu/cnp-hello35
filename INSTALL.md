@@ -1,7 +1,8 @@
 # Requirement
-* Windows 10�̻�
-* .NET Framework 4 �̻�
+* Windows 10이상
+* .NET Framework 4 이상
 
-# ��ġ ���
-1. ������ �ٿ�ε� �Ѵ�.
-2. ������ Ǭ��.
+# ?ㅼ튂 諛⑸쾿
+1. ?뚯씪??`?ㅼ슫濡쒕뱶` ?쒕떎.
+2. `?뺤텞`???쇰떎.
+3. `setup.exe`瑜??ㅽ뻾?쒕떎.
