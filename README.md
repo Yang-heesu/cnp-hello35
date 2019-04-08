@@ -48,3 +48,7 @@ class Hello{
 1 | 강지현
 2 | 김가슬
 3 | 김서연
+
+~~이건취소~~
+
+:wink::wink::wink::wink:
